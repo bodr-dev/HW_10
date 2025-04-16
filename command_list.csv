@@ -1,0 +1,76 @@
+    1  ls Dekstop
+    2  clear
+    3  ls
+    4  ls Desktop
+    5  ls PIG PC
+    6  ls PIG PC.Ink
+    7  ls GIT
+    8  clear
+    9  cd Star Menu
+   10  Start Menu
+   11  clear
+   12  ls
+   13  ls Desktop
+   14  ls GIT
+   15  cs GIT
+   16  cd GIT
+   17  clear
+   18  cd GIT
+   19  clear
+   20  cd Desktop
+   21  cd GIT
+   22  -c&&rm~/.bash_history
+   23  -c && rm ~/.bash_history
+   24  clear
+   25  rm ~/.bash_history
+   26  git config --global user.name "Oleksandr Baglai"
+   27  git config --global user.email "alexbaglai@yahoo.com"
+   28  git clone https://github.com/bodr-dev/HW_10.git
+   29  cd HW_10
+   30  touch text_ignore.txt
+   31  vim text_ignore.txt
+   32  cd Desktop
+   33  cd GIT
+   34  ls
+   35  cd HW_10
+   36  ls
+   37  nano.gitignore
+   38  nano .gitignore
+   39  nano.gitignore
+   40  nano .gitignore
+   41   git status
+   42  git add .gitignore
+   43  git status
+   44  git commit
+   45  git status
+   46  clear
+   47  cd Desktop
+   48  cd GIT
+   49  cd HW_10
+   50  git status
+   51  git commit -m "task1"
+   52  git log
+   53  touch main_test.txt
+   54  git add main_test.txt
+   55  get commit -m "task 2"
+   56   git commit -m "task2"
+   57  git branch
+   58  git checkout -b develop
+   59  git branch
+   60  git add develop
+   61  git add
+   62  git branch
+   63  touch develop_test.txt
+   64  git add develop_test.txt
+   65  git commit -m "task 3.1"
+   66  nano develop_test.txt
+   67  git status
+   68  git add develop_test.txt
+   69  git commit -m "task 3.2"
+   70  checkout main
+   71  checkout main
+   72  git checkout main
+   73  git merge develop
+   74  git log
+   75   command_list.csv
+   76  history > command_list.csv
